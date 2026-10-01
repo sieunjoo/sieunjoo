@@ -38,14 +38,3 @@ AI.SW 전공 | 시스템 및 보안 엔지니어링
 
 - **자격증**: 정보처리기사(준비 중) 
 - **활동**: 자료구조 및 알고리즘 스터디 참여
----
-
-## 깃허브 통계 (GitHub Statistics)
-
-*sieunjoo*
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/streak-stats?username=YOUR_USERNAME&theme=default&hide_border=true" width="48%" />
-</p>
-</p>
